@@ -1,12 +1,13 @@
 /* 
 1. Add all the pairs 
-Write a function that takes a positive integer as a parameter and returns the sum of all even numbers less than or equal to that number.
+Write a function that takes a positive integer as a parameter 
+and returns the sum of all even numbers less than or equal to that number.
 */
 
 
 /**
  * 
- * @param {num} num A positive number used for the loop.
+ * @param {number} num A positive number used for the loop.
  * @returns A positive number
  */
 function addAllEvens(num) {
